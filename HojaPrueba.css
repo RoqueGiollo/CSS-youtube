@@ -1,7 +1,25 @@
-body {
-    background-color: linen;
- }
- h1 {
-    color: maroon;
-    margin-left: 40px;
- }
+body{
+   background-color: aquamarine;
+}
+#titulo{
+    color: yellow ;
+}
+.texto{
+   color: rgb(116, 230, 71);
+}
+.especial{
+   color: tomato;
+}
+p {
+   color: mediumslateblue;
+}
+div p {
+   color: mediumvioletred
+}
+div h2, div h3 {
+   color:brown
+}
+/*
+el asterisco se usa para seleccionar todo que no tiene nada previamente modificado
+*{font-size:24px;}
+*/
