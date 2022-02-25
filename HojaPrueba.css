@@ -19,6 +19,11 @@ div p {
 div h2, div h3 {
    color:brown
 }
+.color {
+   border: 5px black dashed; /* ancho,color,tipo de borde */
+   color : rgb(100,200,200); /*rojo,verde,azul*/
+}
+
 /*
 el asterisco se usa para seleccionar todo que no tiene nada previamente modificado
 *{font-size:24px;}
